@@ -1,7 +1,7 @@
 {
-  "name": "codeboost-gulp",
+  "name": "projeto",
   "version": "1.0.0",
-  "description": "Um projeto criado para o codebost",
+  "description": "Template de projeto simples",
   "main": "index.js",
   "author": "Bruno Arouca",
   "license": "MIT",
